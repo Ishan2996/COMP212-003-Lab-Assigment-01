@@ -1,4 +1,4 @@
-﻿namespace Ex_01
+﻿namespace Ex_02
 {
     partial class Form1
     {
