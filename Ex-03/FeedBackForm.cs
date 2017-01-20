@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Ex_02
+namespace Ex_03
 {
-    public partial class Form1 : Form
+    public partial class FeedBackForm : Form
     {
-        public Form1()
+        public FeedBackForm()
         {
             InitializeComponent();
         }
